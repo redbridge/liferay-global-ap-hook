@@ -8,7 +8,7 @@
     <name>Global Asset Publisher</name>
     <module-id>redbridge/global-ap-hook/6.2.0.1/war</module-id>
     <types>
-        <type>theme</type>
+        <type>hook</type>
     </types>
     <short-description>
     </short-description>
