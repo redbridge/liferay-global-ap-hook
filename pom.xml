@@ -7,13 +7,13 @@
 
     <groupId>se.redbridge.corporate</groupId>
     <artifactId>global-ap-hook</artifactId>
-    <version>6.2.0.1</version>
+    <version>6.2.0.2</version>
     <packaging>war</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven-compiler-plugin.javaVersion>1.7</maven-compiler-plugin.javaVersion>
-        <liferay-maven-plugin.liferayVersion>6.2.1</liferay-maven-plugin.liferayVersion>
+        <liferay-maven-plugin.liferayVersion>6.2.2</liferay-maven-plugin.liferayVersion>
         <liferay-maven-plugin.autoDeployDir>/Users/daniel/Tools/liferay-portal-6.2.0-ce-ga1/deploy</liferay-maven-plugin.autoDeployDir>
     </properties>
 
